@@ -1,0 +1,16 @@
+body {
+  background-color: darkgray;
+}
+
+.form-container {
+  text-align: center;
+  border: 2px ridge rgb(167, 143, 96);
+}
+
+form {
+  padding: 10px;
+}
+
+#search {
+  width: 50%;
+}
